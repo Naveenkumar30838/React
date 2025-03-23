@@ -1,0 +1,13 @@
+.dashBoard{
+    display: flex;
+    justify-content:space-;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.2rem;
+    position: fixed;
+    top: 0px;
+    left: 0;
+    right: 0;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 2px #212121;
+    padding: 8px 12px;
+}

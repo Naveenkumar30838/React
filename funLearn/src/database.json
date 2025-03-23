@@ -1,0 +1,533 @@
+{
+            "quiz": [
+              {
+                "question": "Who invented the telephone?",
+                "option1": "Alexander Graham Bell",
+                "option2": "Thomas Edison",
+                "option3": "Nikola Tesla",
+                "option4": "Albert Einstein",
+                "correctOption": "option1"
+              },
+              {
+                "question": "What is the chemical symbol for the element Iron?",
+                "option1": "Fe",
+                "option2": "Ir",
+                "option3": "In",
+                "option4": "Io",
+                "correctOption": "option1"
+              },
+              {
+                "question": "Who wrote the play 'Romeo and Juliet'?",
+                "option1": "William Shakespeare",
+                "option2": "Jane Austen",
+                "option3": "Charles Dickens",
+                "option4": "Mark Twain",
+                "correctOption": "option1"
+              },
+              {
+                "question": "What is the hardest natural substance on Earth?",
+                "option1": "Gold",
+                "option2": "Iron",
+                "option3": "Diamond",
+                "option4": "Platinum",
+                "correctOption": "option3"
+              },
+              {
+                "question": "Which planet is known as the Red Planet?",
+                "option1": "Venus",
+                "option2": "Mars",
+                "option3": "Jupiter",
+                "option4": "Saturn",
+                "correctOption": "option2"
+              },
+              {
+                "question": "Who discovered the theory of relativity?",
+                "option1": "Isaac Newton",
+                "option2": "Albert Einstein",
+                "option3": "Stephen Hawking",
+                "option4": "Galileo Galilei",
+                "correctOption": "option2"
+              },
+              {
+                "question": "What is the largest organ in the human body?",
+                "option1": "Liver",
+                "option2": "Brain",
+                "option3": "Skin",
+                "option4": "Heart",
+                "correctOption": "option3"
+              },
+              {
+                "question": "Which country is the largest producer of coffee in the world?",
+                "option1": "Brazil",
+                "option2": "Colombia",
+                "option3": "India",
+                "option4": "Vietnam",
+                "correctOption": "option1"
+              },
+              {
+                "question": "Who painted the ceiling of the Sistine Chapel?",
+                "option1": "Leonardo da Vinci",
+                "option2": "Raphael",
+                "option3": "Michelangelo",
+                "option4": "Titian",
+                "correctOption": "option3"
+              },
+              {
+                "question": "What is the capital city of Australia?",
+                "option1": "Sydney",
+                "option2": "Melbourne",
+                "option3": "Canberra",
+                "option4": "Perth",
+                "correctOption": "option3"
+              },
+              {
+                "question": "What is the primary function of the lungs?",
+                "option1": "Pumping blood",
+                "option2": "Digesting food",
+                "option3": "Filtering waste",
+                "option4": "Breathing",
+                "correctOption": "option4"
+              },
+              {
+                "question": "Who discovered penicillin?",
+                "option1": "Marie Curie",
+                "option2": "Alexander Fleming",
+                "option3": "Isaac Newton",
+                "option4": "Louis Pasteur",
+                "correctOption": "option2"
+              },
+              {
+                "question": "What is the capital of Brazil?",
+                "option1": "Rio de Janeiro",
+                "option2": "Brasília",
+                "option3": "São Paulo",
+                "option4": "Salvador",
+                "correctOption": "option2"
+              },
+              {
+                "question": "Who is known as the 'Father of Modern Physics'?",
+                "option1": "Max Planck",
+                "option2": "Niels Bohr",
+                "option3": "Albert Einstein",
+                "option4": "Isaac Newton",
+                "correctOption": "option3"
+              },
+              {
+                "question": "Which planet is closest to the Sun?",
+                "option1": "Mars",
+                "option2": "Mercury",
+                "option3": "Venus",
+                "option4": "Earth",
+                "correctOption": "option2"
+              },
+              {
+                "question": "Who wrote 'To Kill a Mockingbird'?",
+                "option1": "Harper Lee",
+                "option2": "John Steinbeck",
+                "option3": "J.D. Salinger",
+                "option4": "F. Scott Fitzgerald",
+                "correctOption": "option1"
+              },
+              {
+                "question": "Which is the largest ocean on Earth?",
+                "option1": "Indian Ocean",
+                "option2": "Atlantic Ocean",
+                "option3": "Arctic Ocean",
+                "option4": "Pacific Ocean",
+                "correctOption": "option4"
+              },
+              {
+                "question": "What is the main function of the kidneys in the human body?",
+                "option1": "Regulating body temperature",
+                "option2": "Filtering blood",
+                "option3": "Producing hormones",
+                "option4": "Digesting food",
+                "correctOption": "option2"
+              },
+              {
+                "question": "Who was the first person to step on the moon?",
+                "option1": "Buzz Aldrin",
+                "option2": "Neil Armstrong",
+                "option3": "Yuri Gagarin",
+                "option4": "Alan Shepard",
+                "correctOption": "option2"
+              },
+              {
+                "question": "What is the process by which plants make their own food?",
+                "option1": "Photosynthesis",
+                "option2": "Respiration",
+                "option3": "Fermentation",
+                "option4": "Pollination",
+                "correctOption": "option1"
+              },
+              {
+                "question": "Who is the author of 'The Great Gatsby'?",
+                "option1": "Mark Twain",
+                "option2": "F. Scott Fitzgerald",
+                "option3": "Ernest Hemingway",
+                "option4": "John Steinbeck",
+                "correctOption": "option2"
+              },
+              {
+                "question": "Which planet has the most moons in our solar system?",
+                "option1": "Saturn",
+                "option2": "Jupiter",
+                "option3": "Uranus",
+                "option4": "Neptune",
+                "correctOption": "option2"
+              },
+              {
+                "question": "What is the powerhouse of the cell?",
+                "option1": "Mitochondria",
+                "option2": "Nucleus",
+                "option3": "Ribosome",
+                "option4": "Lysosome",
+                "correctOption": "option1"
+              },
+              {
+                "question": "Who painted the 'Mona Lisa'?",
+                "option1": "Vincent van Gogh",
+                "option2": "Pablo Picasso",
+                "option3": "Leonardo da Vinci",
+                "option4": "Michelangelo",
+                "correctOption": "option3"
+              },
+              {
+                "question": "What is the largest continent by land area?",
+                "option1": "Africa",
+                "option2": "Europe",
+                "option3": "Asia",
+                "option4": "North America",
+                "correctOption": "option3"
+              },
+              {
+                "question": "Which planet has the shortest day?",
+                "option1": "Mars",
+                "option2": "Jupiter",
+                "option3": "Mercury",
+                "option4": "Venus",
+                "correctOption": "option4"
+              },
+              {
+                "question": "Who developed the first polio vaccine?",
+                "option1": "Albert Sabin",
+                "option2": "Jonas Salk",
+                "option3": "Louis Pasteur",
+                "option4": "Alexander Fleming",
+                "correctOption": "option2"
+              },
+              {
+                "question": "What is the largest gland in the human body?",
+                "option1": "Pancreas",
+                "option2": "Thyroid gland",
+                "option3": "Liver",
+                "option4": "Kidney",
+                "correctOption": "option3"
+              },
+              {
+                "question": "Who is the Greek goddess of wisdom and warfare?",
+                "option1": "Athena",
+                "option2": "Hera",
+                "option3": "Artemis",
+                "option4": "Aphrodite",
+                "correctOption": "option1"
+              },
+              {
+                "question": "Which is the largest bone in the human body?",
+                "option1": "Femur",
+                "option2": "Humerus",
+                "option3": "Tibia",
+                "option4": "Fibula",
+                "correctOption": "option1"
+              },
+              {
+                "question": "Who wrote the novel '1984'?",
+                "option1": "George Orwell",
+                "option2": "Aldous Huxley",
+                "option3": "J.D. Salinger",
+                "option4": "Ray Bradbury",
+                "correctOption": "option1"
+              },
+              {
+                "question": "Which element is liquid at room temperature?",
+                "option1": "Oxygen",
+                "option2": "Nitrogen",
+                "option3": "Mercury",
+                "option4": "Gold",
+                "correctOption": "option3"
+              },
+              {
+                "question": "Who discovered the double helix structure of DNA?",
+                "option1": "Albert Einstein",
+                "option2": "Rosalind Franklin",
+                "option3": "James Watson and Francis Crick",
+                "option4": "Gregor Mendel",
+                "correctOption": "option3"
+              },
+              {
+                "question": "What is the capital city of Japan?",
+                "option1": "Kyoto",
+                "option2": "Osaka",
+                "option3": "Tokyo",
+                "option4": "Hiroshima",
+                "correctOption": "option3"
+              },
+              {
+                "question": "What is the smallest bone in the human body?",
+                "option1": "Stapes (in the ear)",
+                "option2": "Patella (knee cap)",
+                "option3": "Cranium (skull)",
+                "option4": "Femur (thigh bone)",
+                "correctOption": "option1"
+              },
+              {
+                "question": "Who painted 'Starry Night'?",
+                "option1": "Vincent van Gogh",
+                "option2": "Claude Monet",
+                "option3": "Pablo Picasso",
+                "option4": "Leonardo da Vinci",
+                "correctOption": "option1"
+              },
+              {
+                "question": "Which country is famous for the Taj Mahal?",
+                "option1": "India",
+                "option2": "Turkey",
+                "option3": "Egypt",
+                "option4": "Iran",
+                "correctOption": "option1"
+              },
+              {
+                "question": "Who discovered America?",
+                "option1": "Christopher Columbus",
+                "option2": "Amerigo Vespucci",
+                "option3": "Ferdinand Magellan",
+                "option4": "Vasco da Gama",
+                "correctOption": "option1"
+              },
+              {
+                "question": "What is the chemical symbol for potassium?",
+                "option1": "Po",
+                "option2": "Pt",
+                "option3": "K",
+                "option4": "P",
+                "correctOption": "option3"
+              },
+              {
+                "question": "Who wrote the novel 'Pride and Prejudice'?",
+                "option1": "Jane Austen",
+                "option2": "Emily Brontë",
+                "option3": "Charlotte Brontë",
+                "option4": "Virginia Woolf",
+                "correctOption": "option1"
+              },
+              {
+                "question": "Which is the second largest planet in our solar system?",
+                "option1": "Saturn",
+                "option2": "Jupiter",
+                "option3": "Uranus",
+                "option4": "Neptune",
+                "correctOption": "option1"
+              },
+              {
+                "question": "What is the main function of the pancreas in the human body?",
+                "option1": "Digesting food",
+                "option2": "Regulating blood sugar",
+                "option3": "Producing bile",
+                "option4": "Filtering blood",
+                "correctOption": "option2"
+              },
+              {
+                "question": "Who was the first President of the United States?",
+                "option1": "Thomas Jefferson",
+                "option2": "John Adams",
+                "option3": "George Washington",
+                "option4": "Abraham Lincoln",
+                "correctOption": "option3"
+              },
+              {
+                "question": "What is the largest desert in the world?",
+                "option1": "Sahara Desert",
+                "option2": "Arabian Desert",
+                "option3": "Gobi Desert",
+                "option4": "Kalahari Desert",
+                "correctOption": "option1"
+              },
+              {
+                "question": "Who painted 'The Last Supper'?",
+                "option1": "Raphael",
+                "option2": "Leonardo da Vinci",
+                "option3": "Michelangelo",
+                "option4": "Titian",
+                "correctOption": "option2"
+              },
+              {
+                "question": "Which gas is most abundant in Earth's atmosphere?",
+                "option1": "Oxygen",
+                "option2": "Nitrogen",
+                "option3": "Carbon Dioxide",
+                "option4": "Helium",
+                "correctOption": "option2"
+              },
+              {
+                "question": "What is the largest artery in the human body?",
+                "option1": "Aorta",
+                "option2": "Pulmonary artery",
+                "option3": "Coronary artery",
+                "option4": "Carotid artery",
+                "correctOption": "option1"
+              },
+              {
+                "question": "Who wrote 'The Catcher in the Rye'?",
+                "option1": "J.D. Salinger",
+                "option2": "Mark Twain",
+                "option3": "Ernest Hemingway",
+                "option4": "F. Scott Fitzgerald",
+                "correctOption": "option1"
+              },
+              {
+                "question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+                "option1": "Mars",
+                "option2": "Venus",
+                "option3": "Mercury",
+                "option4": "Jupiter",
+                "correctOption": "option2"
+              },
+              {
+                "question": "Who is known as the 'Father of Computers'?",
+                "option1": "Charles Babbage",
+                "option2": "Alan Turing",
+                "option3": "Bill Gates",
+                "option4": "Steve Jobs",
+                "correctOption": "option1"
+              },
+              {
+                "question": "What is the largest tree species in the world?",
+                "option1": "Sequoia",
+                "option2": "Oak",
+                "option3": "Pine",
+                "option4": "Birch",
+                "correctOption": "option1"
+              },
+              {
+                "question": "Who painted 'The Starry Night'?",
+                "option1": "Vincent van Gogh",
+                "option2": "Claude Monet",
+                "option3": "Pablo Picasso",
+                "option4": "Leonardo da Vinci",
+                "correctOption": "option1"
+              },
+              {
+                "question": "Which country is known as the 'Land of the Rising Sun'?",
+                "option1": "China",
+                "option2": "India",
+                "option3": "Japan",
+                "option4": "Thailand",
+                "correctOption": "option3"
+              },
+              {
+                "question": "What is the longest river in the world?",
+                "option1": "Nile",
+                "option2": "Amazon",
+                "option3": "Yangtze",
+                "option4": "Mississippi",
+                "correctOption": "option1"
+              },
+              {
+                "question": "Who is known as the 'Father of Chemistry'?",
+                "option1": "Marie Curie",
+                "option2": "Robert Boyle",
+                "option3": "Antoine Lavoisier",
+                "option4": "Dmitri Mendeleev",
+                "correctOption": "option3"
+              },
+              {
+                "question": "What is the largest planet in our solar system?",
+                "option1": "Earth",
+                "option2": "Jupiter",
+                "option3": "Saturn",
+                "option4": "Mars",
+                "correctOption": "option2"
+              },
+              {
+                "question": "Who wrote 'The Adventures of Tom Sawyer'?",
+                "option1": "Mark Twain",
+                "option2": "J.K. Rowling",
+                "option3": "Charles Dickens",
+                "option4": "Emily Brontë",
+                "correctOption": "option1"
+              },
+              {
+                "question": "Which country is famous for the Great Wall?",
+                "option1": "China",
+                "option2": "India",
+                "option3": "Egypt",
+                "option4": "Peru",
+                "correctOption": "option1"
+              },
+              {
+                "question": "What is the largest moon in our solar system?",
+                "option1": "Ganymede",
+                "option2": "Titan",
+                "option3": "Callisto",
+                "option4": "Europa",
+                "correctOption": "option1"
+              },
+              {
+                "question": "Who wrote 'War and Peace'?",
+                "option1": "Leo Tolstoy",
+                "option2": "Fyodor Dostoevsky",
+                "option3": "Anton Chekhov",
+                "option4": "Nikolai Gogol",
+                "correctOption": "option1"
+              },
+              {
+                "question": "What is the longest bone in the human body?",
+                "option1": "Humerus",
+                "option2": "Femur",
+                "option3": "Tibia",
+                "option4": "Fibula",
+                "correctOption": "option2"
+              },
+              {
+                "question": "Which element has the atomic number 6?",
+                "option1": "Oxygen",
+                "option2": "Carbon",
+                "option3": "Nitrogen",
+                "option4": "Hydrogen",
+                "correctOption": "option2"
+              },
+              {
+                "question": "Who discovered the laws of motion and universal gravitation?",
+                "option1": "Galileo Galilei",
+                "option2": "Isaac Newton",
+                "option3": "Johannes Kepler",
+                "option4": "Albert Einstein",
+                "correctOption": "option2"
+              },
+              {
+                "question": "What is the process by which plants make their own food?",
+                "option1": "Pollination",
+                "option2": "Photosynthesis",
+                "option3": "Germination",
+                "option4": "Respiration",
+                "correctOption": "option2"
+              },
+              {
+                "question": "Who was the first woman to win a Nobel Prize?",
+                "option1": "Marie Curie",
+                "option2": "Rosalind Franklin",
+                "option3": "Dorothy Hodgkin",
+                "option4": "Ada Lovelace",
+                "correctOption": "option1"
+              },
+              {
+                "question": "What is the largest planet in our solar system?",
+                "option1": "Earth",
+                "option2": "Jupiter",
+                "option3": "Saturn",
+                "option4": "Mars",
+                "correctOption": "option2"
+              }          
+    ]
+  }
+  
