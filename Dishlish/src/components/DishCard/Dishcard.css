@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+::-webkit-scrollbar{
+    display: none;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.Dishcard{
+    max-width: 330px;
+    max-height: 370px;
+    box-shadow: 0px 0px 3px #212121;
+    padding:8px 12px;
+    overflow: auto;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+}
+.Dishcard-img img{
+    width: 330px;
+    overflow: hidden;
+    height: 180px;
+}
+.Dishcard h3{
+    cursor: pointer;
+}
+.Dishcard h3:hover{
+    text-decoration: underline;
+}
+.Dishcard-desc{
+    font-weight: 300;
+    margin-block:4px;
+    overflow: auto;
+    padding-bottom: 4px;
+}
+.Dishcard p i{
+    cursor: pointer;
+}
