@@ -5,7 +5,7 @@ import InfoBox from './InfoBox';
 import { useState } from 'react';
 export default function Home (){ 
     const URL = "https://api.openweathermap.org/data/2.5/weather?";
-    const API_Key = "20b50c5176cc658c67b52a1ae69e05d6";
+    const API_Key = "";
 
     let[city , setCity] = useState("");
 
